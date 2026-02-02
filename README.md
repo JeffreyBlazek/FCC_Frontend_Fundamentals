@@ -18,3 +18,21 @@ Built as part of my frontend learning journey.
 - `css/` – CSS fundamentals and layout practice
 - `javascript/` – JavaScript basics and logic exercises
 - `cheatsheets/` – Quick-reference notes and snippets
+
+---
+
+## Learning Roadmap
+
+### CSS
+- 01 Selectors ✅
+- 02 Box Model
+- 03 Flexbox
+- 04 Grid
+- 05 Responsive Design
+
+### JavaScript
+- 01 Variables & Data Types ✅
+- 02 Conditionals
+- 03 Loops
+- 04 Functions
+- 05 DOM Basics
